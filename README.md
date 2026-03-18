@@ -60,7 +60,6 @@
 </div>
 <br>
 
-<!-- SNAKE ANIMATION -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
