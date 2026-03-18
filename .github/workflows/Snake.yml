@@ -10,18 +10,20 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+     
       - uses: actions/checkout@v3
 
       
       - name: Ensure dist folder exists
         run: mkdir -p dist
 
+      
       - uses: Platane/snk@v3
         with:
           github_user_name: Nosferatu0-alt
           outputs: dist/github-contribution-grid-snake.svg
 
-
+      
       - name: Push Snake to output branch
         uses: ad-m/github-push-action@v0.6.0
         with:
