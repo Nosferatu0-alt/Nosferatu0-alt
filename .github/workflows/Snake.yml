@@ -19,7 +19,7 @@ jobs:
         uses: ad-m/github-push-action@v0.6.0
         with:
           branch: output
-          folder: dist
+          directory: dist
           force: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
