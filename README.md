@@ -16,10 +16,10 @@
 <br>
 
 <div align="center">
-  <p>
-    Estudante de Inteligência Artificial, com foco em tecnologia e inovação, apaixonada por automação.<br>
-    Estou constantemente atualizando meus conhecimentos e buscando novos desafios.<br>
-    Apaixonada por aprender e aplicar esses conhecimentos na prática.
+  <p>Estudante de Inteligência Artificial com ênfase em Machine Learning e Visão Computacional.<br>
+    Dedico meus estudos ao desenvolvimento de soluções inteligentes para reconhecimento de imagens<br> 
+    explorando desde o pré-processamento de dados até o treinamento de redes neurais.<br>
+    Sou um eterno aprendiz, sempre atualizando meu arsenal técnico e buscando desafios que testem meus limites.<br>
   </p>
 </div>
 <br>
