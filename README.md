@@ -104,8 +104,16 @@
 <br />
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=Nosferatu0-alt&show_icons=true&bg_color=0d1117&title_color=C8A44D&icon_color=8b0000&text_color=ffffff&border_color=C8A44D&border_radius=10&show_owner_label=true&rank_icon=github&count_private=true" />
-  <img height="170" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=Nosferatu0-alt&layout=compact&bg_color=0d1117&title_color=C8A44D&text_color=ffffff&border_color=C8A44D&border_radius=10&count_private=true" />
+<table>
+<tr>
+<td valign="top">
+  <img src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=Nosferatu0-alt&show_icons=true&bg_color=0d1117&title_color=C8A44D&icon_color=8b0000&text_color=ffffff&border_color=C8A44D&border_radius=10&show_owner_label=true&rank_icon=github&count_private=true" />
+  <br><br>
+  <img src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=Nosferatu0-alt&layout=compact&bg_color=0d1117&title_color=C8A44D&text_color=ffffff&border_color=C8A44D&border_radius=10&count_private=true" />
+</td>
+<td valign="middle" align="center">
+  <img src="https://i.imgur.com/mYvdKcH.gif" width="350px"/>
+</td>
+</tr>
+</table>
 </div>
-<br>
-<!-- GITHUB STATS -->
